@@ -9,4 +9,5 @@ end
 def artist_name 
   if @artist == nil 
     return nil 
+  else
     
