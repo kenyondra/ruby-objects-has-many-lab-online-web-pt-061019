@@ -7,4 +7,4 @@ def initialize(title)
 end
 
 def author_name 
-  
+  if author 
