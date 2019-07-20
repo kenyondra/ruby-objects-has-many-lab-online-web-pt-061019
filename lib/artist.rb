@@ -26,7 +26,7 @@ def songs
   @songs
 end
 
-def self.
+def self.song_count
   
   
   
