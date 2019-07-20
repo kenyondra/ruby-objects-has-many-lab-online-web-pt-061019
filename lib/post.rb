@@ -8,4 +8,6 @@ end
 
 def author_name 
   if @author == nil 
-    return nil
+    return nil 
+  else
+    
