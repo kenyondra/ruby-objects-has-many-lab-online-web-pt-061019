@@ -3,3 +3,6 @@ class Author
 end
 
 @@post_count = 0 
+
+def initialize 
+  
