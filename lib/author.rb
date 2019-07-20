@@ -9,5 +9,6 @@ def initialize(name)
   @posts = []
 end
 
-
+def add_posts 
+  
   
