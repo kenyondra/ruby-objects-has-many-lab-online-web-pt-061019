@@ -3,4 +3,5 @@ class Post
 end
 
 def initialize(title)
+  @title = title 
   
