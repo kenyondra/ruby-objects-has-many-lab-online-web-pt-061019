@@ -2,4 +2,4 @@ class Author
   attr_accessor :name, :posts 
 end
 
-@@post
+@@post_count = 0 
