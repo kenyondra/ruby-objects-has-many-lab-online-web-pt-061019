@@ -7,5 +7,7 @@ end
 def initialize(name)
   @name = name 
   @posts = []
-  
+end
+
+
   
