@@ -10,6 +10,7 @@ def initialize(name)
 end
 
 def add_song(song)
-  self.songs
+  self.songs << song 
+  
   
   
