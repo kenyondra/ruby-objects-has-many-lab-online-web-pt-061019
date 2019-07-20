@@ -7,4 +7,4 @@ def initialize(name)
 end
 
 def artist_name 
-  if 
+  if @artist 
